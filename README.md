@@ -13,4 +13,6 @@ To implement this strategy, several key elements need to be considered:<br/>
 
 These considerations should be applied across a range of initial velocities during experimentation. It is important to note that beyond a certain initial velocity, increasing braking force (adjusting gain) may become ineffective in preventing a collision. Therefore, the advisory control strategy must be robust enough to make decisions based on the limitations of both the autonomous system and the human driver.<br/>
 
+Full explanation of project available in "Complete README.pdf".<br/>
+
 
